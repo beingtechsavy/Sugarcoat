@@ -1,0 +1,41 @@
+# Compiled source files
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.tmp
+
+# Miscellaneous
+*.swp
+*.swo
